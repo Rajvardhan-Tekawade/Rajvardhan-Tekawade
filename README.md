@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Rajvardhan Tekawade<br><br>🚀 **AI/ML Intern @ IIT Kanpur** | 💻 **Full Stack Developer** | 🤖 **Robotics & Cybersecurity Enthusiast**<br>📍 Pune, India | 🧠 Passionate about **Quantum Computing**, **Relativity**, and **Astrophysics**<br><br>---<br><br><br>### 📫 Let's Connect!<br><br>* 🔗 [LinkedIn](https://www.linkedin.com/in/rajvardhan-tekawade-a96184293/)<br>* 🌐 https://rajvardhan-tekawade.vercel.app/<br>* 📧 [rajtekawade21@gmail.com](mailto:rajtekawade21@gmail.com)<br><br>---<br><br>*“Stay curious, keep building, and leave the web better than you found it.”* ✨<br><br><br>
+## 👋 Hi, I'm Rajvardhan Tekawade<br><br>🚀 **AI/ML Intern @ IIT Kanpur** | 💻 **Full Stack Developer** | 🤖 **Robotics & Cybersecurity Enthusiast**<br>📍 Pune, India | 🧠 Passionate about **Quantum Computing**, **Relativity**, and **Astrophysics**<br><br>---<br><br><br>### 📫 My portfolio: 🌐 https://rajvardhan-tekawade.vercel.app/<br>* <br><br>*“Stay curious, keep building, and leave the web better than you found it.”* ✨<br><br><br>
 
 
 ## 🌐 Socials:
